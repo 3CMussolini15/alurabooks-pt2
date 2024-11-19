@@ -1,4 +1,4 @@
-/*Rafael Freitas  3ºC*/
+/*Rafael Freitas  3ºC  13/11*/
 
 .carrosel__titulo {
     color: var(--laranja);
@@ -10,19 +10,27 @@
     padding: 1em 0 0.5em 0;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .swiper-slide img {
     width: 100%;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .swiper-button-prev,
 .swiper-button-next {
     display: none;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .swiper-pagination {
     position: initial;
     margin: .5em 0;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .card__descrição {
     display: flex;
@@ -30,14 +38,20 @@
     margin-bottom: 0.5em;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .card__botões {
     display: flex;
     justify-content: space-between;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .botões {
     display: flex;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .card {
     background: var(--branco);
@@ -47,10 +61,14 @@
     padding: 1em;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .descrição__titulo {
     color: var(--laranja);
     font-weight: 700;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .descrição__titulo-livro {
     color: var(--azul);
@@ -59,13 +77,19 @@
     margin: 0.5em 0;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .descrição__texto {
     font-size: 14px;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .botões__item {
     margin: 0 0.5em;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .botões__ancora {
     background-color: var(--laranja);
@@ -74,6 +98,8 @@
     font-weight: 700;
     text-decoration: none;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 @media screen and (min-width: 1024px) {
     .carrossel__titulo {
@@ -99,6 +125,8 @@
         margin: 2em auto;
     }
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 @media screen and (min-width: 1728px) {
     .carrossel__container {
