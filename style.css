@@ -1,4 +1,4 @@
-/*Rafael Freitas  3ºC*/
+/*Rafael Freitas  3ºC  13/11*/
 
 @import url("styles/header.css");
 @import url(styles/banner.css);
@@ -17,6 +17,8 @@
     --fonte-secundaria: "Josefin Sans";
     --preto: #000000;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 body {
     background-color: var(--cor-de-fundo);
