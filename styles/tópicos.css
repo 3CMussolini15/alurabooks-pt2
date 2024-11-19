@@ -1,4 +1,4 @@
-/*Rafael Freitas  3ºC*/
+/*Rafael Freitas  3ºC  13/11*/
 
 .tópicos {
     background: var(--azul-degrade);
@@ -6,11 +6,15 @@
     padding: 1em 0;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .tópicos__titulo {
     color: var(--branco);
     font-weight: 300;
     margin-bottom: 1em;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .tópicos__lista {
     display: flex;
@@ -18,9 +22,13 @@
     justify-content: center;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .tópicos__item {
     margin: 2em 0.5em;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .tópicos__link {
     color: var(--branco);
@@ -31,6 +39,8 @@
     font-weight: 700;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 @media screen and (min-width: 1024px) {
     .tópicos__titulo {
         font-size: 24px;
@@ -40,6 +50,8 @@
         font-size: 24px;
     }
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 @media screen and (min-width: 1728px) {
     .tópicos {
