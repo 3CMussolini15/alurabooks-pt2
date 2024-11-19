@@ -1,4 +1,4 @@
-/*Rafael Freitas  3ºC*/
+/*Rafael Freitas  3ºC  13/11*/
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -30,6 +30,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
+
 body {
 	line-height: 1;
 }
@@ -44,6 +47,9 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
