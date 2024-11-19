@@ -1,9 +1,11 @@
-/*Rafael Freitas  3ºC*/
+/*Rafael Freitas  3ºC  13/11*/
 
 .contato {
     background-color: var(--branco);
     padding: 1em;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .contato__titulo,
 .contato__texto {
@@ -13,15 +15,21 @@
     background-clip: text;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .contato__titulo {
     font-size: 18px;
     font-weight: 500;
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .contato__texto {
     font-weight: 300;
     margin: 1em 0;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 .contato__email {
     padding: 1em;
@@ -31,12 +39,16 @@
     color: var(--azul);
 }
 
+/*Rafael Freitas  3ºC  13/11*/
+
 .contato__email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
     background: url("../img/Email.svg") no-repeat;
     padding-left: 2em;
 }
+
+/*Rafael Freitas  3ºC  13/11*/
 
 @media screen and (min-width: 1024px) {
     .contato {
